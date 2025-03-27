@@ -228,7 +228,7 @@
                             <div class="service-box style2 process_hover">
                      <div class="service-box_icon"><img src="assets/img/why-img4.png" alt="Icon"></div>
                      <h3 class="service-box_title h4 heading_hover"><a href="contact.php">Proactive Risk Management</a></h3>
-                     <p class="service-box_text">We proactively manage risks, monitoring markets and adjusting strategies to protect and grow clients' wealth..</p>
+                     <p class="service-box_text">We proactively manage risks, monitoring markets and adjusting strategies to protect and grow clients' wealth.</p>
                   </div>
                            
                        </li>

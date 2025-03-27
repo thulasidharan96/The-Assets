@@ -1,4 +1,4 @@
-<footer class="footer-wrapper footer-layout2" data-bg-src="assets/img/bg/footer_bg_2.png">
+<footer class="footer-wrapper footer-layout2" >
          <div class="widget-area">
             <div class="container">
                <div class="row justify-content-between">
@@ -123,7 +123,8 @@
 
       <div id="fixedimages">
 	<div class="imageHolder">
-		<a target="_blank" href="#">
+		<a href="https://wa.me/917305891603">
+         <!-- <img class="alignnone" src="assets/img/whatsapp.png" alt="" height="55" /> -->
 		<img class="alignnone size-full wp-image-1103" src="assets/img/whatsapp.png" alt="" width="70" height="55" />
 		<span class="caption">7305891603</span>
 		</a>

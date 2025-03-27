@@ -1953,6 +1953,7 @@ textarea.is-invalid {
   transition: opacity 1s, -webkit-transform 1s;
   transition: transform 1s, opacity 1s;
   transition: transform 1s, opacity 1s, -webkit-transform 1s;
+  transition-delay: 0.5s;
 }
 
 .slick-3d-active .slick-3d-next,
@@ -2474,7 +2475,7 @@ textarea.is-invalid {
   border: none;
   text-transform: uppercase;
   text-align: center;
-  background-color: #2a52be;
+  background-color: #0d0c8c;
   /*background-image: linear-gradient(to right, #43e97b 0%, #2a52be 100%);*/
   color: var(--white-color);
   font-family: var(--body-font);
@@ -2551,12 +2552,12 @@ textarea.is-invalid {
 }
 
 .th-btn.style2 {
-  background-color: var(--theme-color);
+  background-color: #0d0c8c;
   color: var(--white-color);
   box-shadow: none;
 }
 .th-btn.style2:hover a {
-  color: #2a52be;
+  color: #0d0c8c;
 }
 
 .th-btn.style2::after,
@@ -8041,7 +8042,7 @@ ol.wp-block-rss {
 
 .footer-layout2 {
   /* padding: 76px 0 0; */
-  background-color: #f4f4f4;
+  background-color: #0d0c8c;
 }
 
 .footer-layout2 .widget-area {
