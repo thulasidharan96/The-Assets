@@ -10,7 +10,7 @@
                      <div class="contact-info">
                         <div class="contact-info_icon"><i class="far fa-phone-volume"></i></div>
                         <div class="media-body">
-                           <h4 class="contact-info_title h6">Phone</h4>
+                           <h4 class="contact-info_title h6">Phone1</h4>
                            <span class="contact-info_text"><a href="tel:7305891603">+91 7305891603</a></span>
                         </div>
                      </div>
